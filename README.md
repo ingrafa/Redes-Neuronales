@@ -1,0 +1,4 @@
+#Las redes neuronales son unos algoritmos muy potentes en el mundo del Machine Learning. En este blog ya los hemos visto varias veces, desde cómo crear una red neuronal en R hasta la clasificación de imágenes con Keras. Pero, ¿cómo podría yo programar una red neuronal desde 0 en Python? En este post te lo explico. ¿Te suena interesante? ¡Pues vamos a ello!
+
+Las redes neuronales están compuestas de neuronas, que a su vez se agrupan en capas: cada neurona de cada capa está conectada con todas las neuronas de la capa anterior. En cada neurona, se realizarán una serie de operaciones (que explicaremos más adelante) las cuales, al optimizar, conseguiremos que nuestra red aprenda. Vamos, que si vamos a programar una red neuronal desde 0 en Python, lo primero es programar las capas de neuronas. ¡Pues manos a la obra! 
+-
