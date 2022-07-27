@@ -1,4 +1,4 @@
----
-title: "Escribe tu titulo"
-author: "Escribe tu nombre"
-date: "Escribe la fecha"
+#---
+#title: "Redes Neuronales"
+#author: "ingrafa"
+##date: "julio-2020"
